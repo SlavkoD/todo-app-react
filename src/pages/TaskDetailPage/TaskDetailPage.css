@@ -1,0 +1,40 @@
+.task-detail {
+  max-width: 500px;
+  margin: 40 auto;
+  padding: 30px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.task-detail h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.task-detail p {
+  font-size: 16px;
+  margin: 12px 0;
+}
+
+.task-detail strong {
+  color: #555;
+}
+
+.task-detail button {
+  display: block;
+  width: 100%;
+  padding: 12px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.task-detail button:hover {
+  background-color: #2980b9;
+}
